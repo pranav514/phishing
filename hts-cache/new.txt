@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:12:27	128/128	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2001%20Mar%202022%2004:41:12%20GMT	https://oa.iitj.ac.in/robots.txt		(from )
+10:12:27	1969/1969	---M--	200	added ('OK')	text/html	date:Tue,%2001%20Mar%202022%2004:41:12%20GMT	https://oa.iitj.ac.in/OARS/	C:/Users/Pranav/Desktop/hacking/oa.iitj.ac.in/OARS/index.html	(from )
+10:12:28	16017/16017	---M--	200	added ('OK')	text/css	etag:W/%2216017-1641969360000%22	https://oa.iitj.ac.in/OARS/style.css	C:/Users/Pranav/Desktop/hacking/oa.iitj.ac.in/OARS/style.css	(from https://oa.iitj.ac.in/OARS/)
+10:12:31	392451/392451	---M--	200	added ('OK')	image/jpeg	etag:W/%22392451-1641969358000%22	https://oa.iitj.ac.in/OARS/DSC_0349.jpg	C:/Users/Pranav/Desktop/hacking/oa.iitj.ac.in/OARS/DSC_0349.jpg	(from https://oa.iitj.ac.in/OARS/style.css)
